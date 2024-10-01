@@ -1,0 +1,22 @@
+[
+    {
+        "image": "assets/images/hotel1.jpg",
+        "title": "The Ritz-Carlton",
+        "description": "The Ritz-Carlton Hotel Company, LLC is an American multinational company that operates the luxury hotel chain known as The Ritz-Carlton. The company has 108 luxury hotels and resorts in 30 countries and territories with 29,158 rooms, in addition to 46 hotels with 8,755 rooms in the pipeline. The current company was founded in 1983, when the previous owners sold the Ritz-Carlton brand name and the Ritz-Carlton hotel in Boston, Massachusetts. The brand was subsequently expanded to other locations. The company is today a subsidiary of Marriott International."
+    },
+    {
+        "image": "assets/images/hotel2.jpg",
+        "title": "The Plaza Hotel",
+        "description": "The Plaza Hotel is a landmark 20-story luxury hotel and condominium apartment building in the Midtown Manhattan neighborhood of Manhattan, New York City. It opened in 1907 and is now owned by Katara Hospitality. The hotel is located on the western side of Grand Army Plaza at the intersection with Central Park South (59th Street), on the southeastern corner of Central Park and just west of Fifth Avenue. For more than 100 years, it has been one of New York City's most iconic hotels."
+    },
+    {
+        "image": "assets/images/hotel3.jpg",
+        "title": "The Langham",
+        "description": "The Langham, London is one of the largest and best-known traditional style grand hotels in London. It is in the district of Marylebone on Langham Place and faces up Portland Place towards Regent's Park. It is a member of the Leading Hotels of the World marketing consortium."
+    },
+    {
+        "image": "assets/images/hotel4.jpg",
+        "title": "The Peninsula",
+        "description": "The Peninsula Hotels is a chain of luxury properties operated by Hongkong and Shanghai Hotels. The first hotel opened in 1928 and now stands as the oldest in Hong Kong. The chain now operates ten properties in eight countries and territories."
+    }
+]
